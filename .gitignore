@@ -1,0 +1,7 @@
+# FAILFLUME local/runtime data — never commit these
+failflume_batter_scanner/data/
+failflume_batter_scanner/__pycache__/
+failflume_batter_scanner/tests/__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
