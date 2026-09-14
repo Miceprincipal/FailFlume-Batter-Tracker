@@ -16,7 +16,7 @@ Use it to inspect/test the model and interface. Treat anything betting-related a
 - `FAILFLUME_PARLAY_TRACKER_v1.1.html` — standalone browser tracker for JSON parlay exports from the scanner.
 - `SHA256SUMS.txt` — hashes for the files in this package.
 
-The scanner is currently **app v1.7.2.4** with the predictive/scoring model still frozen at the v1.7.1 model family.
+The scanner is currently **app v1.7.2.7** with the predictive/scoring model still frozen at the v1.7.1 model family.
 
 ## What the software does
 
@@ -59,20 +59,6 @@ From GitHub you can either:
 
 Nothing here requires installing a custom executable.
 
-### Optional integrity check
-
-Compare the downloaded release ZIP's SHA-256 with the hash published on the GitHub release page. Inside the repository, `SHA256SUMS.txt` contains hashes for the packaged source files.
-
-Windows PowerShell:
-
-```powershell
-Get-FileHash .\FAILFLUME_TESTER_PACKAGE_v1.7.2.4.zip -Algorithm SHA256
-```
-
-macOS/Linux:
-
-```bash
-shasum -a 256 FAILFLUME_TESTER_PACKAGE_v1.7.2.4.zip
 ```
 
 ## 2. Extract the ZIP
