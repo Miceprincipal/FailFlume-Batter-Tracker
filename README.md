@@ -149,7 +149,7 @@ You do not need to install anything for the tracker.
 
 Double-click:
 
-`FAILFLUME_PARLAY_TRACKER_v1.1.html`
+`FAILFLUME_PARLAY_TRACKER_v1.2.html`
 
 It opens directly in your browser.
 
