@@ -13,7 +13,7 @@ Use it to inspect/test the model and interface. Treat anything betting-related a
 ## What is in this repository
 
 - `failflume_batter_scanner/` — local Python MLB batter scanner and browser UI.
-- `FAILFLUME_PARLAY_TRACKER_v1.1.html` — standalone browser tracker for JSON parlay exports from the scanner.
+- `FAILFLUME_PARLAY_TRACKER_v1.2.html` — standalone browser tracker for JSON parlay exports from the scanner.
 - `SHA256SUMS.txt` — hashes for the files in this package.
 
 The scanner is currently **app v1.7.2.7** with the predictive/scoring model still frozen at the v1.7.1 model family.
